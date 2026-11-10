@@ -1,0 +1,6 @@
+{
+  "name": "LA CASITA 3D",
+  "description": "La fábrica de felicidad. Tienda de impresión 3D artesanal y personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
